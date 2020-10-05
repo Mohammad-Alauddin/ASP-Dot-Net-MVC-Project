@@ -1,0 +1,206 @@
+﻿@model Rollin.Add_Entity.SelectedInfoModel
+
+@*@model IEnumerable<Rollin.Add_Entity.SelectedInfoModel>*@
+
+@{
+    ViewBag.Title = "IndexSingle";
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model.Product != null)
+{
+    <h1 style="font-family:cursive; text-align:center;">Products</h1>
+
+    <table class="table">
+        <tr>
+            <th>
+
+                Product Name
+            </th>
+            <th>
+                Product Image
+
+            </th>
+            <th>
+                Unit Price(TK)
+
+            </th>
+
+            <th>
+                Category Name
+
+            </th>
+            <th></th>
+        </tr>
+
+        @if (Model.Product != null)
+        {
+            foreach (var item in Model.Product)
+            {
+                <tr class="table">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        <img src="@Url.Content(item.imageUrl)" Width="100" Height="100" class="img-circle" />
+                        @*@Html.DisplayFor(modelItem => item.imageUrl)*@
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                    </td>
+                    <td>
+                        @*@Html.ActionLink("Select", "IndexSingle", new { id = item.ProductID })*@
+                        @*@Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })*@
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+}
+
+
+@if (Model.Order != null)
+{
+    <h1 style="font-family:cursive; text-align:center;">Order</h1>
+
+    <table class="table">
+        <tr>
+            <th>
+                Order Number
+            </th>
+            <th>
+                Order Date
+
+            </th>
+            <th>
+                Total Amount
+
+            </th>
+            <th>
+                Customer Name
+
+            </th>
+            <th>
+                Product Name
+
+            </th>
+            <th></th>
+        </tr>
+
+        @if (Model.Order != null)
+        {
+            foreach (var item in Model.Order)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OrderDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TotalAmount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Customer.CustomerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Product.ProductName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Select", "IndexSingle", new { OrderId = item.OrderID }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.OrderID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.OrderID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.OrderID })
+
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+}
+
+@if (Model != null)
+{
+    <style>
+        body {
+            background-image: url('../../CoverPhoto/Cover3.jpg');
+            Background-repeat: no-repeat;
+            Background-size: cover;
+        }
+    </style>
+    <h1 style="font-family:cursive; text-align:center;">Customer</h1>
+
+    <table class="table">
+        <tr>
+            <th>
+                Customer Name
+            </th>
+            <th>
+                City
+            </th>
+            <th>
+                Country
+            </th>
+            <th>
+                Phone
+            </th>
+            <th></th>
+        </tr>
+
+        @if (Model.Customers != null)
+        {
+
+            foreach (var item in Model.Customers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CustomerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.City)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Country)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Phone)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Select", "IndexSingle", new { CustomerId = item.CustomeID })
+                        @*@Html.ActionLink("Edit", "Edit", new { id = item.CustomeID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.CustomeID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.CustomeID })*@
+
+                    </td>
+                </tr>
+
+            }
+        }
+
+    </table>
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

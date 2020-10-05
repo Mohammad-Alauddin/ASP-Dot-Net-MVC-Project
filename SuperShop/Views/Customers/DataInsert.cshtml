@@ -1,0 +1,183 @@
+﻿
+@{
+    ViewBag.Title = "DataInsert";
+}
+
+<h2>Add New Customer</h2>
+
+
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Sample JSON Data and send it to controller</title>
+    <style>
+        body {
+            background-image: url('../../CoverPhoto/Cover3.jpg');
+            Background-repeat: no-repeat;
+            Background-size: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="table" >
+        <label>Create Sample User JSON Data and send it to controller</label><br /><br />
+
+        Customer Name :  <input type="text" id="CustomerName" /> <br /> <br />
+
+        City :          <input type="text" id="City" /><br /> <br />
+
+        Country :       <input type="text" id="Country" /><br /> <br />
+
+        Phone :         <input type="text" id="Phone" /><br /> <br />
+
+        <input type="button" id="btnUpdateUserDetail" value="Add" onclick="AddValueToList();" /> |
+        <input type="button" id="btnUpdateUserDetailEdit" value="Save" onclick="EditValueToList();" />
+
+        <br />
+        <table id="infoTable" class="table">
+            <thead>
+                <tr>
+                    <th>CustomerID</th>
+                    <th> CustomerName </th>
+                    <th>City </th>
+                    <th>Country </th>
+                    <th>Phone</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+
+        <input type="button" id="btnUpdateInstituteDetail" value="Submit to Server" onclick="UpdateCustomerDetail();" />
+
+
+    </div>
+</body>
+</html>
+
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+
+<script lang="en" type="text/javascript">
+    var CustomerId = 0;
+    var CustomerList = [];
+    function AddValueToList() {
+        CustomerId = 0;
+        var CustomerDetails = {};
+        CustomerDetails["CustomerID"] = CustomerList.length + 1;
+        CustomerDetails["CustomerName"] = document.getElementById("CustomerName").value;
+        CustomerDetails["City"] = document.getElementById("City").value;
+        CustomerDetails["Country"] = document.getElementById("Country").value;
+        CustomerDetails["Phone"] = document.getElementById("Phone").value;
+        CustomerList.push(CustomerDetails);
+        fillTable();
+
+
+    }
+
+    function EditValueToList() {
+
+        for (var i = CustomerList.length; i--;) {
+            if (CustomerList[i].CustomerID === CustomerId) {
+                CustomerList[i].CustomerName = document.getElementById("CustomerName").value;
+                CustomerList[i].City = document.getElementById("City").value;
+                CustomerList[i].Country = document.getElementById("Country").value;
+                CustomerList[i].Phone = document.getElementById("Phone").value;
+                break;
+            }
+        }
+
+        fillTable();
+
+    }
+
+    function fillTable() {
+        $('#infoTable > tbody').empty();
+
+        CustomerList.forEach(function (val) {
+            $('#infoTable > tbody:last-child').append('<tr><td>' + val.CustomerID + '</td><td>' + val.CustomerName + '</td><td>' + val.City + '</td><td>' + val.Country + '</td><td>' + val.Phone + '</td ><td> <input type="button" value="Delete" onclick="tempDelete(' + val.CustomerID + ')" /> <input type="button" value="Edit" onclick="editPre(' + val.CustomerID + ')" /></td></tr > ');
+        })
+
+    }
+
+
+
+    function tempDelete(CustomerID) {
+        remove(CustomerList, CustomerID);
+        fillTable();
+    }
+
+    function editPre(CustomerID) {
+        for (var i = CustomerList.length; i--;) {
+            if (CustomerList[i].CustomerID === CustomerID) {
+                CustomerId = CustomerID;
+                document.getElementById("CustomerName").value = CustomerList[i].CustomerName;
+                document.getElementById("City").value = CustomerList[i].City;
+                document.getElementById("Country").value = CustomerList[i].Country;
+                document.getElementById("Phone").value = CustomerList[i].Phone;
+                break;
+            }
+        }
+
+
+    }
+
+    function remove(arr, item) {
+        for (var i = arr.length; i--;) {
+            if (arr[i].CustomerID === item) {
+                arr.splice(i, 1);
+            }
+        }
+        for (var i = 0; i < arr.length; i++) {
+            arr[i].CustomerID = i + 1;
+        }
+
+    }
+
+
+    function UpdateCustomerDetail() {
+        var CustomerJason = JSON.stringify(CustomerList);
+
+        var getReportColumnsParams = { "CustomerJason": CustomerJason };
+
+        $.ajax({
+            type: "POST",
+            traditional: true,
+            async: false,
+            cache: false,
+            url: '/Customers/DataInsert',
+            context: document.body,
+            data: getReportColumnsParams,
+            success: function (result) {
+                alert(result);
+            },
+            error: function (xhr) {
+                console.log(xhr.responseText);
+                alert("Error has occurred..");
+            }
+        });
+
+        CustomerList = [];
+        document.getElementById("CustomerName").value = '';
+        document.getElementById("City").value = '';
+        document.getElementById("Country").value = '';
+        document.getElementById("Phone").value = '';
+        fillTable();
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+

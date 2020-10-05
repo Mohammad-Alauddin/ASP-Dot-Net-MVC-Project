@@ -1,0 +1,100 @@
+﻿@model PagedList.IPagedList<Rollin.Add_Entity.Order>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Order Items</h2>
+
+<button class="success">
+    @Html.ActionLink("Create New", "Create")
+</button>
+
+<style>
+    body {
+        background-image: url('../../CoverPhoto/Cover3.jpg');
+        Background-repeat: no-repeat;
+        Background-size: cover;
+    }
+
+     .success {
+        text-decoration:none;
+        border-color:lightgray;
+        color: black;
+    }
+</style>
+
+@using (Html.BeginForm("Index", "Orders", FormMethod.Get))
+{
+    <p style="float:right;">
+        Find by number: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table">
+    <tr class="info">
+        <th>
+            @Html.ActionLink("Order Number", "Index", new { sortOrder = ViewBag.NameSortParm })
+            @*@Html.DisplayNameFor(model => model.OrderNumber)*@
+        </th>
+        <th>
+            Order Date
+            @*@Html.DisplayNameFor(model => model.OrderDate)*@
+        </th>
+        <th>
+            Total Amount
+            @*@Html.DisplayNameFor(model => model.TotalAmount)*@
+        </th>
+        <th>
+            Customer Name
+            @*@Html.DisplayNameFor(model => model.Customer.CustomerName)*@
+        </th>
+        <th>
+            Product Name
+            @*@Html.DisplayNameFor(model => model.Product.ProductName)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Product.ProductName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.OrderID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.OrderID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.OrderID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of
+@Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new
+{
+    page,
+    sortOrder = ViewBag.CurrentSort,
+    currentFilter =
+ViewBag.CurrentFilter
+}))

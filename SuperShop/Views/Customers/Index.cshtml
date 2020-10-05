@@ -1,0 +1,95 @@
+﻿@model PagedList.IPagedList<Rollin.Add_Entity.Customer>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<h2>Customer Details</h2>
+
+<button class="success">
+    @Html.ActionLink("Create New", "Create")
+</button>
+
+<style>
+    body {
+        background-image: url('../../CoverPhoto/Cover3.jpg');
+        Background-repeat: no-repeat;
+        Background-size: cover;
+    }
+
+     .search{
+          width: 400px;
+          margin-right: 0;
+          margin-left: auto;
+    }
+</style>
+
+
+@using (Html.BeginForm("Index", "Customers", FormMethod.Get))
+{
+    <p style="float:right;">
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table class="table"  >
+    <tr class="info">
+        <th>
+            @Html.ActionLink("Customer Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+            @*@Html.DisplayNameFor(model => model.CustomerName)*@
+        </th>
+        <th>
+            City
+            @*@Html.DisplayNameFor(model => model.City)*@
+        </th>
+        <th>
+            Country
+            @*@Html.DisplayNameFor(model => model.Country)*@
+        </th>
+        <th>
+            Phone 
+            @*@Html.DisplayNameFor(model => model.Phone)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CustomeID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CustomeID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CustomeID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of
+@Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new
+{
+    page,
+    sortOrder = ViewBag.CurrentSort,
+    currentFilter =
+ViewBag.CurrentFilter
+}))

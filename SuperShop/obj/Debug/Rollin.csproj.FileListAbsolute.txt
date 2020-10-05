@@ -1,0 +1,1308 @@
+C:\Users\Administrator\source\repos\Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Rollin\bin\Rollin.dll.config
+C:\Users\Administrator\source\repos\Rollin\bin\Rollin.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Rollin.pdb
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\Rollin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\Rollin\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\source\repos\Rollin\bin\EntityFramework.dll
+C:\Users\Administrator\source\repos\Rollin\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Rollin\bin\Owin.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Http.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Mvc.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Optimization.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Razor.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\source\repos\Rollin\bin\WebGrease.dll
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Mvc.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Optimization.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Razor.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\source\repos\Rollin\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Http.xml
+C:\Users\Administrator\source\repos\Rollin\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\source\repos\Rollin\bin\EntityFramework.xml
+C:\Users\Administrator\source\repos\Rollin\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\source\repos\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\Rollin\obj\Debug\Rollin.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Rollin\obj\Debug\Rollin.dll
+C:\Users\Administrator\source\repos\Rollin\obj\Debug\Rollin.pdb
+C:\Users\Administrator\source\repos\Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+D:\02-02-2020\Rollin\bin\Rollin.dll.config
+D:\02-02-2020\Rollin\bin\Rollin.dll
+D:\02-02-2020\Rollin\bin\Rollin.pdb
+D:\02-02-2020\Rollin\bin\roslyn\csc.exe
+D:\02-02-2020\Rollin\bin\roslyn\csc.exe.config
+D:\02-02-2020\Rollin\bin\roslyn\csc.rsp
+D:\02-02-2020\Rollin\bin\roslyn\csi.exe
+D:\02-02-2020\Rollin\bin\roslyn\csi.exe.config
+D:\02-02-2020\Rollin\bin\roslyn\csi.rsp
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+D:\02-02-2020\Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\02-02-2020\Rollin\bin\roslyn\System.AppContext.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Collections.Immutable.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Console.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.IO.Compression.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.IO.FileSystem.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.IO.Pipes.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Reflection.Metadata.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.AccessControl.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Claims.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.ValueTuple.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Xml.XPath.dll
+D:\02-02-2020\Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\02-02-2020\Rollin\bin\roslyn\vbc.exe
+D:\02-02-2020\Rollin\bin\roslyn\vbc.exe.config
+D:\02-02-2020\Rollin\bin\roslyn\vbc.rsp
+D:\02-02-2020\Rollin\bin\roslyn\VBCSCompiler.exe
+D:\02-02-2020\Rollin\bin\roslyn\VBCSCompiler.exe.config
+D:\02-02-2020\Rollin\bin\Antlr3.Runtime.dll
+D:\02-02-2020\Rollin\bin\EntityFramework.dll
+D:\02-02-2020\Rollin\bin\EntityFramework.SqlServer.dll
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\02-02-2020\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Google.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+D:\02-02-2020\Rollin\bin\Microsoft.Web.Infrastructure.dll
+D:\02-02-2020\Rollin\bin\Newtonsoft.Json.dll
+D:\02-02-2020\Rollin\bin\Owin.dll
+D:\02-02-2020\Rollin\bin\System.Net.Http.Formatting.dll
+D:\02-02-2020\Rollin\bin\System.Web.Helpers.dll
+D:\02-02-2020\Rollin\bin\System.Web.Http.dll
+D:\02-02-2020\Rollin\bin\System.Web.Http.WebHost.dll
+D:\02-02-2020\Rollin\bin\System.Web.Mvc.dll
+D:\02-02-2020\Rollin\bin\System.Web.Optimization.dll
+D:\02-02-2020\Rollin\bin\System.Web.Razor.dll
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.Deployment.dll
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.dll
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.Razor.dll
+D:\02-02-2020\Rollin\bin\WebGrease.dll
+D:\02-02-2020\Rollin\bin\System.Web.Helpers.xml
+D:\02-02-2020\Rollin\bin\System.Web.Mvc.xml
+D:\02-02-2020\Rollin\bin\System.Web.Optimization.xml
+D:\02-02-2020\Rollin\bin\System.Web.Razor.xml
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.xml
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.Deployment.xml
+D:\02-02-2020\Rollin\bin\System.Web.WebPages.Razor.xml
+D:\02-02-2020\Rollin\bin\Newtonsoft.Json.xml
+D:\02-02-2020\Rollin\bin\Antlr3.Runtime.pdb
+D:\02-02-2020\Rollin\bin\System.Net.Http.Formatting.xml
+D:\02-02-2020\Rollin\bin\System.Web.Http.xml
+D:\02-02-2020\Rollin\bin\System.Web.Http.WebHost.xml
+D:\02-02-2020\Rollin\bin\EntityFramework.xml
+D:\02-02-2020\Rollin\bin\EntityFramework.SqlServer.xml
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Google.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+D:\02-02-2020\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\02-02-2020\Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+D:\02-02-2020\Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+D:\02-02-2020\Rollin\obj\Debug\Rollin.csproj.CopyComplete
+D:\02-02-2020\Rollin\obj\Debug\Rollin.dll
+D:\02-02-2020\Rollin\obj\Debug\Rollin.pdb
+I:\02-02-2020\Rollin\bin\Rollin.dll.config
+I:\02-02-2020\Rollin\bin\Rollin.dll
+I:\02-02-2020\Rollin\bin\Rollin.pdb
+I:\02-02-2020\Rollin\bin\roslyn\csc.exe
+I:\02-02-2020\Rollin\bin\roslyn\csc.exe.config
+I:\02-02-2020\Rollin\bin\roslyn\csc.rsp
+I:\02-02-2020\Rollin\bin\roslyn\csi.exe
+I:\02-02-2020\Rollin\bin\roslyn\csi.exe.config
+I:\02-02-2020\Rollin\bin\roslyn\csi.rsp
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+I:\02-02-2020\Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\02-02-2020\Rollin\bin\roslyn\System.AppContext.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Collections.Immutable.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Console.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.IO.Compression.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.IO.FileSystem.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.IO.Pipes.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Reflection.Metadata.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.AccessControl.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Claims.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.ValueTuple.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Xml.XPath.dll
+I:\02-02-2020\Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\02-02-2020\Rollin\bin\roslyn\vbc.exe
+I:\02-02-2020\Rollin\bin\roslyn\vbc.exe.config
+I:\02-02-2020\Rollin\bin\roslyn\vbc.rsp
+I:\02-02-2020\Rollin\bin\roslyn\VBCSCompiler.exe
+I:\02-02-2020\Rollin\bin\roslyn\VBCSCompiler.exe.config
+I:\02-02-2020\Rollin\bin\Antlr3.Runtime.dll
+I:\02-02-2020\Rollin\bin\EntityFramework.dll
+I:\02-02-2020\Rollin\bin\EntityFramework.SqlServer.dll
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\02-02-2020\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Google.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+I:\02-02-2020\Rollin\bin\Microsoft.Web.Infrastructure.dll
+I:\02-02-2020\Rollin\bin\Newtonsoft.Json.dll
+I:\02-02-2020\Rollin\bin\Owin.dll
+I:\02-02-2020\Rollin\bin\System.Net.Http.Formatting.dll
+I:\02-02-2020\Rollin\bin\System.Web.Helpers.dll
+I:\02-02-2020\Rollin\bin\System.Web.Http.dll
+I:\02-02-2020\Rollin\bin\System.Web.Http.WebHost.dll
+I:\02-02-2020\Rollin\bin\System.Web.Mvc.dll
+I:\02-02-2020\Rollin\bin\System.Web.Optimization.dll
+I:\02-02-2020\Rollin\bin\System.Web.Razor.dll
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.Deployment.dll
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.dll
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.Razor.dll
+I:\02-02-2020\Rollin\bin\WebGrease.dll
+I:\02-02-2020\Rollin\bin\System.Web.Helpers.xml
+I:\02-02-2020\Rollin\bin\System.Web.Mvc.xml
+I:\02-02-2020\Rollin\bin\System.Web.Optimization.xml
+I:\02-02-2020\Rollin\bin\System.Web.Razor.xml
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.xml
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.Deployment.xml
+I:\02-02-2020\Rollin\bin\System.Web.WebPages.Razor.xml
+I:\02-02-2020\Rollin\bin\Newtonsoft.Json.xml
+I:\02-02-2020\Rollin\bin\Antlr3.Runtime.pdb
+I:\02-02-2020\Rollin\bin\System.Net.Http.Formatting.xml
+I:\02-02-2020\Rollin\bin\System.Web.Http.xml
+I:\02-02-2020\Rollin\bin\System.Web.Http.WebHost.xml
+I:\02-02-2020\Rollin\bin\EntityFramework.xml
+I:\02-02-2020\Rollin\bin\EntityFramework.SqlServer.xml
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\02-02-2020\Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Google.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\02-02-2020\Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+I:\02-02-2020\Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\02-02-2020\Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+I:\02-02-2020\Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+I:\02-02-2020\Rollin\obj\Debug\Rollin.csproj.CopyComplete
+I:\02-02-2020\Rollin\obj\Debug\Rollin.dll
+I:\02-02-2020\Rollin\obj\Debug\Rollin.pdb
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Rollin.dll.config
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Rollin.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Rollin.pdb
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csc.exe
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csc.exe.config
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csc.rsp
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csi.exe
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csi.exe.config
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\csi.rsp
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.AppContext.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Console.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.IO.Compression.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Claims.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.ValueTuple.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\vbc.exe
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\vbc.exe.config
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\vbc.rsp
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Antlr3.Runtime.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\EntityFramework.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\EntityFramework.SqlServer.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Newtonsoft.Json.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Owin.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Net.Http.Formatting.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Helpers.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Http.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Http.WebHost.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Mvc.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Optimization.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Razor.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.Razor.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\WebGrease.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Helpers.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Mvc.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Optimization.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Razor.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.WebPages.Razor.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Newtonsoft.Json.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Antlr3.Runtime.pdb
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Net.Http.Formatting.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Http.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Web.Http.WebHost.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\EntityFramework.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\EntityFramework.SqlServer.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\obj\Debug\Rollin.csproj.CopyComplete
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\obj\Debug\Rollin.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\obj\Debug\Rollin.pdb
+G:\MVC Project\SuperShop_Rollin\bin\Rollin.dll.config
+G:\MVC Project\SuperShop_Rollin\bin\Rollin.dll
+G:\MVC Project\SuperShop_Rollin\bin\Rollin.pdb
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.exe
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.exe.config
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.rsp
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.exe
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.exe.config
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.rsp
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.AppContext.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Collections.Immutable.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Console.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Compression.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Reflection.Metadata.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.AccessControl.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Claims.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.ValueTuple.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.exe
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.exe.config
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.rsp
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe
+G:\MVC Project\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe.config
+G:\MVC Project\SuperShop_Rollin\bin\Antlr3.Runtime.dll
+G:\MVC Project\SuperShop_Rollin\bin\EntityFramework.dll
+G:\MVC Project\SuperShop_Rollin\bin\EntityFramework.SqlServer.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project\SuperShop_Rollin\bin\Newtonsoft.Json.dll
+G:\MVC Project\SuperShop_Rollin\bin\Owin.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Net.Http.Formatting.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Helpers.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.WebHost.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Mvc.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Optimization.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Razor.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project\SuperShop_Rollin\bin\WebGrease.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Helpers.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Mvc.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Optimization.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Razor.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project\SuperShop_Rollin\bin\Newtonsoft.Json.xml
+G:\MVC Project\SuperShop_Rollin\bin\Antlr3.Runtime.pdb
+G:\MVC Project\SuperShop_Rollin\bin\System.Net.Http.Formatting.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.WebHost.xml
+G:\MVC Project\SuperShop_Rollin\bin\EntityFramework.xml
+G:\MVC Project\SuperShop_Rollin\bin\EntityFramework.SqlServer.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+G:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csproj.CopyComplete
+G:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.dll
+G:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.pdb
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Rollin.dll.config
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Rollin.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Rollin.pdb
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csc.exe
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csc.exe.config
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csc.rsp
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csi.exe
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csi.exe.config
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\csi.rsp
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.AppContext.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Console.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\vbc.exe
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\vbc.exe.config
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\vbc.rsp
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Antlr3.Runtime.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\EntityFramework.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\EntityFramework.SqlServer.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Newtonsoft.Json.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Owin.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Net.Http.Formatting.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Helpers.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Http.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Http.WebHost.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Mvc.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Optimization.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Razor.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\WebGrease.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Helpers.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Mvc.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Optimization.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Razor.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Newtonsoft.Json.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Antlr3.Runtime.pdb
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Net.Http.Formatting.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Http.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\System.Web.Http.WebHost.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\EntityFramework.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\EntityFramework.SqlServer.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\obj\Debug\Rollin.csproj.CopyComplete
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\obj\Debug\Rollin.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\obj\Debug\Rollin.pdb
+G:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+G:\MVC Project\SuperShop_Rollin\bin\PagedList.dll
+G:\MVC Project\SuperShop_Rollin\bin\PagedList.Mvc.dll
+G:\MVC Project\SuperShop_Rollin\bin\PagedList.xml
+G:\MVC Project\SuperShop_Rollin\bin\PagedList.Mvc.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\PagedList.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\PagedList.Mvc.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\PagedList.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\PagedList.Mvc.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\PagedList.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\PagedList.Mvc.dll
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\PagedList.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\bin\PagedList.Mvc.xml
+C:\Users\Alauddin Ahsan\Desktop\MVC_Project(8Module)\SuperShop_Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\CsvHelper.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\CsvHelper.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.xml
+H:\MVC Project\SuperShop_Rollin\bin\Rollin.dll.config
+H:\MVC Project\SuperShop_Rollin\bin\Rollin.dll
+H:\MVC Project\SuperShop_Rollin\bin\Rollin.pdb
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.exe
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.exe.config
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csc.rsp
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.exe
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.exe.config
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\csi.rsp
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.Managed.Core.targets
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.AppContext.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Collections.Immutable.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Console.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Compression.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.IO.Pipes.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Reflection.Metadata.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.AccessControl.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Claims.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Security.Principal.Windows.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.ValueTuple.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XmlDocument.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.exe
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.exe.config
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\vbc.rsp
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe
+H:\MVC Project\SuperShop_Rollin\bin\roslyn\VBCSCompiler.exe.config
+H:\MVC Project\SuperShop_Rollin\bin\Antlr3.Runtime.dll
+H:\MVC Project\SuperShop_Rollin\bin\CsvHelper.dll
+H:\MVC Project\SuperShop_Rollin\bin\EntityFramework.dll
+H:\MVC Project\SuperShop_Rollin\bin\EntityFramework.SqlServer.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.dll
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Web.Infrastructure.dll
+H:\MVC Project\SuperShop_Rollin\bin\Newtonsoft.Json.dll
+H:\MVC Project\SuperShop_Rollin\bin\Owin.dll
+H:\MVC Project\SuperShop_Rollin\bin\PagedList.dll
+H:\MVC Project\SuperShop_Rollin\bin\PagedList.Mvc.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Net.Http.Formatting.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Helpers.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.WebHost.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Mvc.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Optimization.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Razor.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.dll
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Razor.dll
+H:\MVC Project\SuperShop_Rollin\bin\WebGrease.dll
+H:\MVC Project\SuperShop_Rollin\bin\CsvHelper.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.xml
+H:\MVC Project\SuperShop_Rollin\bin\PagedList.xml
+H:\MVC Project\SuperShop_Rollin\bin\PagedList.Mvc.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Helpers.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Mvc.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Optimization.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Razor.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Deployment.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.WebPages.Razor.xml
+H:\MVC Project\SuperShop_Rollin\bin\Newtonsoft.Json.xml
+H:\MVC Project\SuperShop_Rollin\bin\Antlr3.Runtime.pdb
+H:\MVC Project\SuperShop_Rollin\bin\System.Net.Http.Formatting.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.xml
+H:\MVC Project\SuperShop_Rollin\bin\System.Web.Http.WebHost.xml
+H:\MVC Project\SuperShop_Rollin\bin\EntityFramework.xml
+H:\MVC Project\SuperShop_Rollin\bin\EntityFramework.SqlServer.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Core.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Facebook.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Cookies.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Google.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.Twitter.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.Owin.Security.OAuth.xml
+H:\MVC Project\SuperShop_Rollin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+H:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+H:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.csproj.CopyComplete
+H:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.dll
+H:\MVC Project\SuperShop_Rollin\obj\Debug\Rollin.pdb
+G:\MVC Project\SuperShop_Rollin\bin\CsvHelper.dll
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\MVC Project\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.dll
+G:\MVC Project\SuperShop_Rollin\bin\CsvHelper.xml
+G:\MVC Project\SuperShop_Rollin\bin\Microsoft.Bcl.AsyncInterfaces.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\MVC Project\SuperShop_Rollin\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ESAD-CS\Desktop\MVC Rollin\SuperShop_Rollin\obj\Debug\Rollin.csprojAssemblyReference.cache
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Rollin.dll.config
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Rollin.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Rollin.pdb
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csc.exe
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csc.exe.config
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csc.rsp
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csi.exe
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csi.exe.config
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\csi.rsp
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.AppContext.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Console.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\vbc.exe
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\vbc.exe.config
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\vbc.rsp
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Antlr3.Runtime.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\CsvHelper.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\EntityFramework.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\EntityFramework.SqlServer.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Newtonsoft.Json.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Owin.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\PagedList.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\PagedList.Mvc.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Net.Http.Formatting.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Helpers.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Http.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Http.WebHost.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Mvc.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Optimization.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Razor.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\WebGrease.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\CsvHelper.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\PagedList.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\PagedList.Mvc.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Helpers.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Mvc.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Optimization.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Razor.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Newtonsoft.Json.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Antlr3.Runtime.pdb
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Net.Http.Formatting.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Http.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\System.Web.Http.WebHost.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\EntityFramework.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\EntityFramework.SqlServer.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\obj\Debug\Rollin.csprojAssemblyReference.cache
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\obj\Debug\Rollin.csproj.CopyComplete
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\obj\Debug\Rollin.dll
+C:\Users\ESAD-CS\Desktop\1251422_ Mohammad Ala uddin\SuperShop\obj\Debug\Rollin.pdb
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.dll.config
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.pdb
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.exe
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.exe.config
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.rsp
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.exe
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.exe.config
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.rsp
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.Managed.Core.targets
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.AppContext.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Collections.Immutable.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Console.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Compression.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.FileSystem.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Pipes.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Reflection.Metadata.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.AccessControl.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Claims.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Principal.Windows.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.ValueTuple.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XmlDocument.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XPath.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.exe
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.exe.config
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.rsp
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\VBCSCompiler.exe
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\VBCSCompiler.exe.config
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Antlr3.Runtime.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\CsvHelper.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.SqlServer.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Core.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Cookies.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Facebook.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Google.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.OAuth.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Twitter.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Web.Infrastructure.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Newtonsoft.Json.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Owin.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.Mvc.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Net.Http.Formatting.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Threading.Tasks.Extensions.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Helpers.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.WebHost.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Mvc.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Optimization.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Razor.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Deployment.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Razor.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\WebGrease.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\CsvHelper.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.Mvc.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Threading.Tasks.Extensions.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Helpers.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Mvc.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Optimization.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Razor.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Deployment.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Razor.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Newtonsoft.Json.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Antlr3.Runtime.pdb
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Net.Http.Formatting.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.WebHost.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.SqlServer.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Core.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Facebook.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Cookies.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Google.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Twitter.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.OAuth.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.csproj.CopyComplete
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.dll
+F:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.dll.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Rollin.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csc.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\csi.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.AppContext.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Collections.Immutable.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Console.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Compression.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.FileSystem.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.IO.Pipes.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.AccessControl.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Claims.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.ValueTuple.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XPath.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\vbc.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\VBCSCompiler.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\roslyn\VBCSCompiler.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Antlr3.Runtime.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\CsvHelper.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.SqlServer.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Google.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Web.Infrastructure.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Newtonsoft.Json.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.Mvc.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Net.Http.Formatting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Threading.Tasks.Extensions.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Helpers.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.WebHost.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Mvc.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Optimization.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Razor.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Deployment.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Razor.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\WebGrease.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\CsvHelper.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\PagedList.Mvc.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Threading.Tasks.Extensions.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Helpers.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Mvc.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Optimization.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Razor.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Deployment.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.WebPages.Razor.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Newtonsoft.Json.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Antlr3.Runtime.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Net.Http.Formatting.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\System.Web.Http.WebHost.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\EntityFramework.SqlServer.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Google.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.csprojAssemblyReference.cache
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.csproj.CopyComplete
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\New Edition Project\SuperShop\obj\Debug\Rollin.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Rollin.dll.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Rollin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Rollin.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csc.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csc.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csc.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csi.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csi.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\csi.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.AppContext.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Collections.Immutable.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Console.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.IO.Compression.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.IO.FileSystem.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.IO.Pipes.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.AccessControl.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Claims.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.ValueTuple.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Xml.XPath.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\vbc.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\vbc.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\vbc.rsp
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\VBCSCompiler.exe
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\roslyn\VBCSCompiler.exe.config
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Antlr3.Runtime.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\CsvHelper.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\EntityFramework.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\EntityFramework.SqlServer.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Google.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Web.Infrastructure.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Newtonsoft.Json.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Owin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\PagedList.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\PagedList.Mvc.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Net.Http.Formatting.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Threading.Tasks.Extensions.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Helpers.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Http.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Http.WebHost.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Mvc.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Optimization.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Razor.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.Deployment.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.Razor.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\WebGrease.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\CsvHelper.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\PagedList.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\PagedList.Mvc.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Threading.Tasks.Extensions.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Helpers.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Mvc.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Optimization.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Razor.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.Deployment.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.WebPages.Razor.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Newtonsoft.Json.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Antlr3.Runtime.pdb
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Net.Http.Formatting.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Http.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\System.Web.Http.WebHost.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\EntityFramework.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\EntityFramework.SqlServer.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Google.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\obj\Debug\Rollin.csprojAssemblyReference.cache
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\obj\Debug\Rollin.csproj.CoreCompileInputs.cache
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\obj\Debug\Rollin.csproj.CopyComplete
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\obj\Debug\Rollin.dll
+E:\All Projects\8th_Module_MVC CRUD\ASP.Net MVC_CRUD_(8th Module)\SuperShop_Based on ASP Net MVC\SuperShop\obj\Debug\Rollin.pdb
