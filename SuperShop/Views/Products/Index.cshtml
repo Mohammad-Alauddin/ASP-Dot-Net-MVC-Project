@@ -1,0 +1,101 @@
+﻿@model PagedList.IPagedList<Rollin.Add_Entity.Product>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+<script src="~/Scripts/bootstrap.js"></script>
+
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<h2>Product Details</h2>
+
+<button class="success">
+    @Html.ActionLink("Create New", "Create")
+</button>
+
+<style>
+    body {
+        background-image: url('../../CoverPhoto/Cover3.jpg');
+        Background-repeat: no-repeat;
+        Background-size: cover;
+    }
+
+    .success {
+        text-decoration:none;
+        border-color:lightgray;
+        color: black;
+    }
+    
+</style>
+
+@using (Html.BeginForm("Index", "Products", FormMethod.Get))
+{
+    <p style="float:right;">
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+
+
+<table class="table">
+    <tr class="info">
+        <th>
+            @Html.ActionLink("Product Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+            @*@Html.DisplayNameFor(model => model.ProductName)*@
+        </th>
+        <th>
+            Product Image
+            @*@Html.DisplayNameFor(model => model.imageUrl)*@
+        </th>
+        <th>
+            Unit Price(TK)
+            @*@Html.DisplayNameFor(model => model.UnitPrice)*@
+        </th>
+
+        <th>
+            Category Name
+            @*@Html.DisplayNameFor(model => model.Category.CategoryName)*@
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                <img src="@Url.Content(item.imageUrl)" Width="100" Height="110" />
+                @*@Html.DisplayFor(modelItem => item.imageUrl)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CategoryName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of
+@Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+new
+{
+    page,
+    sortOrder = ViewBag.CurrentSort,
+    currentFilter =
+ViewBag.CurrentFilter
+}))
+
